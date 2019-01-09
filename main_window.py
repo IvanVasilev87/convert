@@ -3,6 +3,9 @@ from convert_funcs import options, convert
 
 
 class Conversion:
+    """
+    just a comment to check the github how it does work
+    """
     def __init__(self, root):
         self.root = root
         self.root.title("Conversion")
